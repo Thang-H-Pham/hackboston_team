@@ -20,7 +20,6 @@
 <div class="flex justify-center px-4 mt-10">
 	<div class="w-full space-y-6">
 
-		<!-- Grid -->
 			<!-- 1st -->
 			<div class = "grid grid-cols-1 sm:grid-cols-2 gap-2 place-items-center justify-rounded-md">
 				<!-- Member 1 -->
